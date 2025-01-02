@@ -1,5 +1,5 @@
-### SYNCHRONOUS-UP-COUNTER
-
+# SYNCHRONOUS-UP-COUNTER
+# DATE : 05-12-2024
 **AIM:**
 
 To implement 4 bit synchronous up counter and validate functionality.
